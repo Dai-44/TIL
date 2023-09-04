@@ -16,4 +16,4 @@
 
 - [もう一度、未経験からRailsエンジニアを目指すならすること【流れを解説】
 ](https://busitora.com/programming/to-do)
-- [学習のまとめ／学びたいことリスト](https://zenn.dev/dai_44/scraps/23a373d4b926de)
+- [学習のまとめ／学びたいことリスト(zennスクラップ)](https://zenn.dev/dai_44/scraps/23a373d4b926de)
