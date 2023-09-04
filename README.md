@@ -12,4 +12,8 @@
 - [Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する](https://qiita.com/nemui_/items/239335b4ed0c3c797add)
 - [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa#file-markdown-cheatsheet-md)
 - [TIL(Today I Learned)を30日続けてわかった5つのこと](https://blogs.lisb.direct/entry/2016-03-28-100000)
-- [イケてるWebエンジニアは全員やってる習慣5選 - エンジニア転職チャンネル](https://youtu.be/-ZydLzVMBE0?si=Ner8vI0rBv6OJMqd)
+- [イケてるWebエンジニアは全員やってる習慣5選 - エンジニア転職チャンネル](https://youtu.be/-ZydLzVMBE0?si=Ner8vI0rBv6OJMqd)  
+
+- [もう一度、未経験からRailsエンジニアを目指すならすること【流れを解説】
+](https://busitora.com/programming/to-do)
+- [学習のまとめ／学びたいことリスト](https://zenn.dev/dai_44/scraps/23a373d4b926de)
