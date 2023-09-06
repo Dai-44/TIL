@@ -9,3 +9,7 @@
 - アルゴリズム図鑑読み直し
 - Rubyのシングルトンモジュール
 - ActiveStorageの使い方, 各種テーブルの役割
+- 正規表現  
+- CookieとSession
+- migrationなどDB周りの概念（解像度をあげたい）  
+- rails db:createとは？必ず必要？
