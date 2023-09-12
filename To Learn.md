@@ -14,4 +14,5 @@
 - migrationなどDB周りの概念（解像度をあげたい）  
 - rails db:createとは？必ず必要？
 - SQLの深掘り（特にINNER／OUTER JOINとか）
-- rakeタスクの深掘り
+- rakeタスクの深掘り  
+- erbから生成されるHTMLを理解する（link_toヘルパーやform_withヘルパーなど）  
