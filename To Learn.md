@@ -14,3 +14,4 @@
 - migrationなどDB周りの概念（解像度をあげたい）  
 - rails db:createとは？必ず必要？
 - SQLの深掘り（特にINNER／OUTER JOINとか）
+- rakeタスクの深掘り
