@@ -16,3 +16,4 @@
 - SQLの深掘り（特にINNER／OUTER JOINとか）
 - rakeタスクの深掘り  
 - erbから生成されるHTMLを理解する（link_toヘルパーやform_withヘルパーなど）  
+- puts, p, printの違い
