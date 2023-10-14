@@ -8,3 +8,4 @@
   - Minitestは、`test_`で始まるメソッドを探してそれを実行するため、メソッド名を`test_`で始めることは必須。  
   - Minitestでテストコードを書く際は、`require 'minitest/autorun'でMinitestのライブラリを読み込み、`require_relative (ファイルパス)`で実行対象となるファイルを読み込む。プログラムファイルとテストファイルが分離しているという前提。  
 
+
